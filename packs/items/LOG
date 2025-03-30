@@ -1,23 +1,8 @@
-2025/03/29-23:07:26.021 36b4 Recovering log #79
-2025/03/29-23:07:26.021 36b4 Level-0 table #81: started
-2025/03/29-23:07:26.023 36b4 Level-0 table #81: 29366 bytes OK
-2025/03/29-23:07:26.027 36b4 Delete type=0 #79
-2025/03/29-23:07:26.027 36b4 Delete type=3 #78
-2025/03/29-23:07:49.285 8348 Level-0 table #84: started
-2025/03/29-23:07:49.285 8348 Level-0 table #84: 0 bytes OK
-2025/03/29-23:07:49.287 8348 Delete type=0 #82
-2025/03/29-23:07:49.298 8348 Manual compaction at level-0 from '!items!JyOgANKY11IDHkeb' @ 72057594037927935 : 1 .. '!items!JyOgANKY11IDHkeb' @ 0 : 0; will stop at '!items!JyOgANKY11IDHkeb' @ 37 : 1
-2025/03/29-23:07:49.298 8348 Compacting 1@0 + 0@1 files
-2025/03/29-23:07:49.304 8348 Generated table #85@0: 1 keys, 1860 bytes
-2025/03/29-23:07:49.304 8348 Compacted 1@0 + 0@1 files => 1860 bytes
-2025/03/29-23:07:49.304 8348 compacted to: files[ 0 1 1 0 0 0 0 ]
-2025/03/29-23:07:49.304 8348 Delete type=2 #81
-2025/03/29-23:07:49.304 8348 Manual compaction at level-0 from '!items!JyOgANKY11IDHkeb' @ 37 : 1 .. '!items!JyOgANKY11IDHkeb' @ 0 : 0; will stop at (end)
-2025/03/29-23:07:49.313 8348 Manual compaction at level-1 from '!items!JyOgANKY11IDHkeb' @ 72057594037927935 : 1 .. '!items!JyOgANKY11IDHkeb' @ 0 : 0; will stop at '!items!JyOgANKY11IDHkeb' @ 68 : 1
-2025/03/29-23:07:49.313 8348 Compacting 1@1 + 1@2 files
-2025/03/29-23:07:49.315 8348 Generated table #86@1: 1 keys, 1860 bytes
-2025/03/29-23:07:49.315 8348 Compacted 1@1 + 1@2 files => 1860 bytes
-2025/03/29-23:07:49.316 8348 compacted to: files[ 0 0 1 0 0 0 0 ]
-2025/03/29-23:07:49.316 8348 Delete type=2 #5
-2025/03/29-23:07:49.317 8348 Delete type=2 #85
-2025/03/29-23:07:49.317 8348 Manual compaction at level-1 from '!items!JyOgANKY11IDHkeb' @ 68 : 1 .. '!items!JyOgANKY11IDHkeb' @ 0 : 0; will stop at (end)
+2025/03/30-08:41:15.210 264 Recovering log #114
+2025/03/30-08:41:15.213 264 Delete type=0 #114
+2025/03/30-08:41:15.213 264 Delete type=3 #113
+2025/03/30-08:45:17.497 83d8 Level-0 table #118: started
+2025/03/30-08:45:17.497 83d8 Level-0 table #118: 0 bytes OK
+2025/03/30-08:45:17.498 83d8 Delete type=0 #116
+2025/03/30-08:45:17.509 83d8 Manual compaction at level-0 from '!items!JyOgANKY11IDHkeb' @ 72057594037927935 : 1 .. '!items!JyOgANKY11IDHkeb' @ 0 : 0; will stop at (end)
+2025/03/30-08:45:17.512 83d8 Manual compaction at level-1 from '!items!JyOgANKY11IDHkeb' @ 72057594037927935 : 1 .. '!items!JyOgANKY11IDHkeb' @ 0 : 0; will stop at (end)

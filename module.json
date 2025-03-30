@@ -1,7 +1,7 @@
 {
   "id": "nanyx-stuff",
   "title": "Nanyx Stuff",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "compatibility": {
     "minimum": "12",
     "verified": "12"
@@ -29,6 +29,16 @@
         "id": "dnd-monster-manual",
         "type": "module",
         "compatibility": {}
+      },
+      {
+        "id": "socketlib",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "dae",
+        "type": "module",
+        "compatibility": {}
       }
     ]
   },
@@ -51,19 +61,31 @@
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
       }
+    },
+    {
+      "name": "character-classes",
+      "label": "Character Classes",
+      "path": "packs/character-classes",
+      "type": "Item",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
     }
   ],
   "packFolders": [
     {
       "name": "Nanyx's Stuff",
-      "color": "#1e72cc",
+      "color": "#281338",
       "sorting": "m",
       "packs": [
-        "items"
+        "items",
+        "character-classes"
       ],
       "folders": []
     }
   ],
-  "download": "https://github.com/Nanyx/nanyx-stuff-foundryVTT/archive/0.1.1.zip",
+  "download": "https://github.com/Nanyx/nanyx-stuff-foundryVTT/archive/0.1.2.zip",
   "manifest": "https://github.com/Nanyx/nanyx-stuff-foundryVTT/releases/latest/download/module.json"
 }
