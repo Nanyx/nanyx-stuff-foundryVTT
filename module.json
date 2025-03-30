@@ -35,7 +35,9 @@
   "authors": [
     {
       "name": "Nanyx",
-      "flags": {}
+      "flags": {
+        "github": "Nanyx"
+      }
     }
   ],
   "packs": [
