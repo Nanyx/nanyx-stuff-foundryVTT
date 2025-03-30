@@ -63,5 +63,7 @@
       ],
       "folders": []
     }
-  ]
+  ],
+  "download": "https://github.com/Nanyx/nanyx-stuff-foundryVTT/archive/0.1.1.zip",
+  "manifest": "https://github.com/Nanyx/nanyx-stuff-foundryVTT/releases/latest/download/module.json"
 }
